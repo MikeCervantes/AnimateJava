@@ -1,0 +1,4 @@
+#Fri May 04 06:29:32 MDT 2018
+base.0=C\:\\Users\\kid_d_000\\Downloads\\AnimateJava\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\7
+path.0=classes.dex
+renamed.0=classes.dex
